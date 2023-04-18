@@ -52,7 +52,7 @@ There are several different types of gamepads available, each designed for speci
 
 - Console gamepads: These are gamepads designed for use with home consoles, such as the Xbox, PlayStation, and Nintendo Switch. They typically include a D-pad, analog sticks, triggers, and buttons, and are designed for comfortable, long-term use.
 
-<img src="https://i.pcmag.com/imagery/articles/03W5rddPYdbOO9ZACUPLQb7-21.fit_lim.size_1050x.jpg" width="400" height="300">
+<img src="https://i.pcmag.com/imagery/articles/03W5rddPYdbOO9ZACUPLQb7-21.fit_lim.size_1050x.jpg" width="450" height="300">
 
 - PC gamepads: These are gamepads designed for use with personal computers. They often feature additional buttons and programmable macros, and may be wired or wireless.
 
