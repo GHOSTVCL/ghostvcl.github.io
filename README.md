@@ -22,7 +22,7 @@ The evolution of gamepads has been driven by the need to provide gamers with mor
 
 - Early gamepads: The first gamepads were simple controllers with a D-pad and a few buttons, such as the Sega Master System controller and the NES controller. These controllers provided basic control for early video games.
 
-<img src="https://cdn.dribbble.com/users/1317072/screenshots/3628443/mastersystemcontroller_800x600.png" width="400" height="200">
+<img src="https://cdn.dribbble.com/users/1317072/screenshots/3628443/mastersystemcontroller_800x600.png" width="300" height="200">
 
 - Addition of shoulder buttons: In the early 1990s, gamepads began to include shoulder buttons, which allowed for additional inputs and more complex actions. The Super Nintendo Entertainment System (SNES) controller, released in 1991, included shoulder buttons for the first time.
 
