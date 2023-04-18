@@ -86,10 +86,10 @@ Inteegrating a gamepad is easier than i thought, but you've to be careful with w
 
 ## Bibliography
 
-[What's a gamepad](https://www.computerhope.com/jargon/g/gamepad.htm)
-[Evolution of the game controller](https://www.popularmechanics.com/technology/gadgets/g34288261/evolution-of-the-video-game-controller/)
-[Types of gamepads](https://5minutecrafts.site/learn-tech/a-guide-to-different-types-of-game-controllers-2939/)
-[Types of gamepads](https://worldtechjournal.com/all-about-joystick-best-5-types-of-joystick/)
-[GameController wiki](https://wiki.libsdl.org/SDL2/CategoryGameController)
+- [What's a gamepad](https://www.computerhope.com/jargon/g/gamepad.htm)
+- [Evolution of the game controller](https://www.popularmechanics.com/technology/gadgets/g34288261/evolution-of-the-video-game-controller/)
+- [Types of gamepads](https://5minutecrafts.site/learn-tech/a-guide-to-different-types-of-game-controllers-2939/)
+- [Types of gamepads](https://worldtechjournal.com/all-about-joystick-best-5-types-of-joystick/)
+- [GameController wiki](https://wiki.libsdl.org/SDL2/CategoryGameController)
 
 
