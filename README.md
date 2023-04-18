@@ -42,7 +42,7 @@ The evolution of gamepads has been driven by the need to provide gamers with mor
 
 - Touch screens: With the rise of mobile gaming, gamepads began to incorporate touch screens, such as the PlayStation Vita and the Nintendo Switch.
 
-
+<img src="https://static.fnac-static.com/multimedia/ES/images_produits/ES/ZoomPE/2/9/6/0711719180692/tsp20120217191002/PS-VITA-Wi-Fi.jpg" width="300" height="300">
 
 Today, gamepads are highly customizable, with options for remappable buttons, programmable macros, and adjustable sensitivity. The latest gamepads also often include advanced features like haptic feedback and voice control.
 
