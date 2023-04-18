@@ -6,7 +6,7 @@ My name is Joan Giol and this is the page for [GamePad Integration](https://gith
 
 A gamepad is a type of input device used to control video games, typically in a home console or PC gaming environment. It consists of a handheld device with buttons, triggers, and analog sticks that can be used to control in-game actions such as movement, aiming, and attacking. Gamepads are designed to be comfortable to hold and allow for precise and responsive control, making them a popular choice for gaming. Different gamepads may have varying numbers of buttons and features, but most include directional buttons or a D-pad, analog sticks, and buttons for actions like jumping, shooting, and interacting with objects in the game world.
 
-<img src="https://www.google.com/search?q=gamepad&rlz=1C1CHBF_esES921ES921&sxsrf=APwXEderpbYvAITvFgmBJ-tCagijdSgQ0g:1681825571619&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiF0JS-yLP-AhVpVKQEHZo0DucQ_AUoAXoECAMQAw&biw=1920&bih=937&dpr=1#imgrc=GaEm_1uDr5rKRM" alt="Height Formula" width="600" height="300">
+![Gamepad](https://img.pccomponentes.com/articles/33/335827/1110-microsoft-gamepad-para-xbox-series-negro-carbon.jpg)
 
 ## Gamepad origins
 
