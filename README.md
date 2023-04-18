@@ -77,3 +77,8 @@ There are several different types of gamepads available, each designed for speci
 - Custom gamepads: Some gamers prefer to build or modify their own gamepads to suit their preferences. Custom gamepads may include specialized buttons, custom colors, and other unique features.
 
 <img src="https://m.media-amazon.com/images/I/61k-oh-pTRL.jpg" width="300" height="300">
+
+## Conclusions
+
+## Bibliography
+
