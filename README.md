@@ -82,7 +82,7 @@ There are several different types of gamepads available, each designed for speci
 
 ## Conclusions
 
-Inteegrating a gamepad is easier than i thought, but you've to be careful with which sdl version you're using depending on your controller, for example, if you're using a PS4 controller, you'll have to be in version 2.0.8 or higher, because the mappong for the controller wasn't done for versions before that, but you'll probably be able to use any other controller.
+Integrating a gamepad is easier than i thought, but you've to be careful with which sdl version you're using depending on your controller, for example, if you're using a PS4 controller, you'll have to be in version 2.0.8 or higher, because the mapping for the controller wasn't done for versions before that, but you'll probably be able to use any other controller.
 
 ## Bibliography
 
