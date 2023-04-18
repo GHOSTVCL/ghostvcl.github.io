@@ -26,7 +26,11 @@ The evolution of gamepads has been driven by the need to provide gamers with mor
 
 - Addition of shoulder buttons: In the early 1990s, gamepads began to include shoulder buttons, which allowed for additional inputs and more complex actions. The Super Nintendo Entertainment System (SNES) controller, released in 1991, included shoulder buttons for the first time.
 
+<img src="https://fs-prod-cdn.nintendo-europe.com/media/images/08_content_images/others_2/CI_NSwitch_Exclusive_Offers_Product_Slide_SNES_03.jpg" width="300" height="200">
+
 - Introduction of analog sticks: In 1996, the Nintendo 64 introduced the first gamepad with an analog stick. This allowed for more precise control over movement in three-dimensional games.
+
+<img src="https://assets.nintendo.eu/image/upload/f_auto/q_auto/t_product_tile_desktop/v1/MNS/NOE/000000000010006981/1.1_ProductTile_Accessories_Nintendo64Controller_OutOfBox_enNOE?_a=ATAK9AA0" width="300" height="300">
 
 - Wireless gamepads: In the early 2000s, wireless gamepads began to appear, allowing for greater freedom of movement and eliminating the need for cords.
 
