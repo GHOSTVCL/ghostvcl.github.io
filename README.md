@@ -38,7 +38,7 @@ The evolution of gamepads has been driven by the need to provide gamers with mor
 
 - Motion control: In 2006, the Nintendo Wii introduced the first gamepad with motion control, allowing players to control games by moving the controller through the air.
 
-<img src="https://m.media-amazon.com/images/I/61QSQlmEvgL.jpg" width="300" height="400">
+<img src="https://m.media-amazon.com/images/I/61QSQlmEvgL.jpg" width="300" height="350">
 
 - Touch screens: With the rise of mobile gaming, gamepads began to incorporate touch screens, such as the PlayStation Vita and the Nintendo Switch.
 
