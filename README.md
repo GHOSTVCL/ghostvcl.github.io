@@ -52,16 +52,28 @@ There are several different types of gamepads available, each designed for speci
 
 - Console gamepads: These are gamepads designed for use with home consoles, such as the Xbox, PlayStation, and Nintendo Switch. They typically include a D-pad, analog sticks, triggers, and buttons, and are designed for comfortable, long-term use.
 
-<img src="https://i.pcmag.com/imagery/articles/03W5rddPYdbOO9ZACUPLQb7-21.fit_lim.size_1050x.jpg" width="300" height="300">
+<img src="https://i.pcmag.com/imagery/articles/03W5rddPYdbOO9ZACUPLQb7-21.fit_lim.size_1050x.jpg" width="400" height="300">
 
 - PC gamepads: These are gamepads designed for use with personal computers. They often feature additional buttons and programmable macros, and may be wired or wireless.
 
+<img src="https://media.game.es/COVERV2/3D_L/117/117147.png" width="300" height="300">
+
 - Mobile gamepads: These are gamepads designed for use with smartphones and tablets, and are often smaller and more portable than console or PC gamepads. They may connect via Bluetooth or USB, and often include a built-in phone holder.
+
+<img src="https://m.media-amazon.com/images/I/71CEvxPNctL._SL1500_.jpg" width="300" height="300">
 
 - Arcade gamepads: These are gamepads designed for use with arcade machines and fighting games. They may include specialized buttons and controls, such as a joystick and large, concave buttons.
 
+<img src="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51g+ctdhcTL._AC_SY355_.jpg" width="350" height="300">
+
 - Racing gamepads: These are gamepads designed for use with racing games, and often include a specialized steering wheel and pedals for more immersive gameplay.
+
+<img src="https://i5.walmartimages.com/asr/7620b5aa-b79c-4f59-b067-fe1b865db371.ca6f92798b35aa5aaef049ffbc2f051e.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff" width="300" height="300">
 
 - Flight gamepads: These are gamepads designed for use with flight simulators and space games, and often include a joystick and throttle control for more precise control over the game.
 
+<img src="https://www.discoazul.com/uploads/media/images/16713_3635449_8874.jpg" width="3500" height="300">
+
 - Custom gamepads: Some gamers prefer to build or modify their own gamepads to suit their preferences. Custom gamepads may include specialized buttons, custom colors, and other unique features.
+
+<img src="https://m.media-amazon.com/images/I/61k-oh-pTRL.jpg" width="300" height="300">
