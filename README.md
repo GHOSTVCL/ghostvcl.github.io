@@ -72,7 +72,7 @@ There are several different types of gamepads available, each designed for speci
 
 - Flight gamepads: These are gamepads designed for use with flight simulators and space games, and often include a joystick and throttle control for more precise control over the game.
 
-<img src="https://www.discoazul.com/uploads/media/images/16713_3635449_8874.jpg" width="3500" height="300">
+<img src="https://www.discoazul.com/uploads/media/images/16713_3635449_8874.jpg" width="350" height="300">
 
 - Custom gamepads: Some gamers prefer to build or modify their own gamepads to suit their preferences. Custom gamepads may include specialized buttons, custom colors, and other unique features.
 
