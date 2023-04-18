@@ -34,9 +34,15 @@ The evolution of gamepads has been driven by the need to provide gamers with mor
 
 - Wireless gamepads: In the early 2000s, wireless gamepads began to appear, allowing for greater freedom of movement and eliminating the need for cords.
 
+<img src="https://img.joomcdn.net/919b6584873a424658e61e3af46785da81690789_original.jpeg" width="300" height="300">
+
 - Motion control: In 2006, the Nintendo Wii introduced the first gamepad with motion control, allowing players to control games by moving the controller through the air.
 
+<img src="https://m.media-amazon.com/images/I/61QSQlmEvgL.jpg" width="300" height="400">
+
 - Touch screens: With the rise of mobile gaming, gamepads began to incorporate touch screens, such as the PlayStation Vita and the Nintendo Switch.
+
+
 
 Today, gamepads are highly customizable, with options for remappable buttons, programmable macros, and adjustable sensitivity. The latest gamepads also often include advanced features like haptic feedback and voice control.
 
